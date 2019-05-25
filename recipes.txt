@@ -6,3 +6,6 @@ idli
 sambar
 white chutney
 green chutney 
+
+Regards
+Recipes
